@@ -1,5 +1,3 @@
-**NOTE :** `` raw content 
-
 Read in the following order :
 
 1. oreilly-blockchain : small but highly informative book on blockchain and its applications
